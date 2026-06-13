@@ -1,0 +1,18 @@
+# Core numerical & ML
+numpy>=1.21
+torch>=1.10
+
+# Computer Vision
+opencv-python>=4.6
+mediapipe>=0.10
+
+# Data visualization & evaluation
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+
+# Speech synthesis
+pyttsx3>=2.90
+
+# Utility
+tqdm>=4.64
